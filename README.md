@@ -1,6 +1,5 @@
 # bharat-intern
 tasks in internship
-![Screenshot 2024-06-21 190913](https://github.com/Avinashpasham/bharat-intern/assets/173386426/3b6e490c-d882-4855-b944-2570e1d4dc16)
 ![Screenshot 2024-06-21 190940](https://github.com/Avinashpasham/bharat-intern/assets/173386426/8f8bc704-5311-4ae0-8dfe-5cb70d3233a6)
 ![Screenshot 2024-06-21 191005](https://github.com/Avinashpasham/bharat-intern/assets/173386426/33fdfde3-9ac0-42b7-9682-184c1001c1ed)
 ![Screenshot 2024-06-21 191056](https://github.co
